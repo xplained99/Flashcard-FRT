@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-    baseURL: process.env.API_BASE_URL,
+    baseURL: "https://vueflashcard.azurewebsites.net/api/v2",
     headers: {
         "Content-Type": "application/json",
     },
