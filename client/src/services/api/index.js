@@ -4,7 +4,7 @@ const instance = axios.create({
     baseURL: "https://vueflashcard.azurewebsites.net/api/v2",
     headers: {
         "Content-Type": "application/json",
-    },
+    }
 });
 
 export default instance;
