@@ -10,7 +10,7 @@ import ProgressReview from '@/components/ProgressReview.vue'
 export default {
     mounted () {
         window.$vs = this.$vs;
-        this.$emit("updateHeader", {text: "Welcome back <b>Dote</b>"})
+        this.$emit("updateHeader", {text: "Welcome back!"})
     },
 
     components: {
