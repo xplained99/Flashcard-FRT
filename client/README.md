@@ -18,6 +18,8 @@ Vue.js UI frontend for Flashcard app API.
 - [x] Reporting Job
 - [x] Alert Job
 - [x] Cache
+
+
 ## Project setup
 ```
 npm install
