@@ -1,0 +1,46 @@
+{
+  "name": "Flashcard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "boxicons": "^2.1.1",
+    "chart.js": "^3.7.1",
+    "chartjs-adapter-moment": "^1.0.0",
+    "color-hash": "^2.0.1",
+    "core-js": "^3.8.3",
+    "dotenv": "^16.0.0",
+    "eventsource": "^2.0.0",
+    "moment": "^2.29.1",
+    "node-polyfill-webpack-plugin": "^1.1.4",
+    "node-sass": "^7.0.1",
+    "register-service-worker": "^1.7.2",
+    "sass-loader": "^12.6.0",
+    "vue": "^2.6.14",
+    "vue-cookies": "^1.7.4",
+    "vue-router": "^3.5.1",
+    "vuesax": "^4.0.1-alpha.25",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "dotenv-webpack": "^7.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "stylus": "^0.56.0",
+    "stylus-loader": "^6.2.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
